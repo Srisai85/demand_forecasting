@@ -6,3 +6,6 @@ This time series dataset has 112 observations and 18 variables, and a descriptio
 
 The purpose of this data mining project is to predict the demand and to calculate the effect of advertising campaigns
 drivers on demand by using Market Mix Modelling (MMM) method.
+
+You can download this dataset by using this link---
+https://drive.google.com/file/d/0B7wtHMpv0fWTSWFYUmlkZEpRc00/view
